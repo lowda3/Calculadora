@@ -1,0 +1,15 @@
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\bin\Debug\net10.0\CalculadoraCompras.exe
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\bin\Debug\net10.0\CalculadoraCompras.deps.json
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\bin\Debug\net10.0\CalculadoraCompras.runtimeconfig.json
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\bin\Debug\net10.0\CalculadoraCompras.dll
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\bin\Debug\net10.0\CalculadoraCompras.pdb
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.AssemblyInfoInputs.cache
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.AssemblyInfo.cs
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.csproj.CoreCompileInputs.cache
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.dll
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\refint\CalculadoraCompras.dll
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.pdb
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.genruntimeconfig.cache
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\ref\CalculadoraCompras.dll
+C:\FUNDAMENTO ALGORITMOS\CSHARP\CalculadoraCompras\obj\Debug\net10.0\CalculadoraCompras.sourcelink.json
